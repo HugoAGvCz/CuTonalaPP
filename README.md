@@ -1,2 +1,2 @@
 # CuTonalaPP
-Repo for the subject of parallel programming
+Repo for the Parallel Algorithms Presentation
